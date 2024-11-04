@@ -40,3 +40,9 @@ Follow the modules in the order provided below for a structured learning path:
 2. PyAutoGUI
 3. Time
 
+**Helping Tools**
+
+Writing tool for test the project
+
+https://keyhero.com/free-typing-test/
+
