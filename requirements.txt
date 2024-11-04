@@ -30,3 +30,5 @@ tornado==6.4.1
 traitlets==5.14.3
 tzdata==2023.3
 wcwidth==0.2.13
+
+PyAutoGUI~=0.9.54
